@@ -1,6 +1,9 @@
 # vision-based-gait-surveillance-system
 Vision-based gait surveillance system that classifies normal and suspicious human activities from surveillance videos using Vision Transformer (ViT) feature extraction and XGBoost.
 # Vision-Based Gait Surveillance System
+<p align="center">
+  <img src="images/workflow.png" width="850">
+</p>
 
 ## Overview
 
@@ -138,4 +141,4 @@ predict_video("sample.mp4")
 
 ## Author
 
-Your Name
+YOGAPRIYA B
