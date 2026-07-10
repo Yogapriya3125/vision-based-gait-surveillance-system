@@ -17,7 +17,11 @@ The system extracts spatial features from video frames using Vision Transformer 
 using an XGBoost classifier.
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
 ## Features
 
 ✔ Automatic video preprocessing
